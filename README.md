@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavindudr" alt="kavindudr" /></a> </p>
 
-- 🔭 I’m currently working on **Assignment Management System**
+- 🔭 I’m currently working on **Student Assistant Application**
 
 - 🌱 I’m currently learning **Spring Boot, React, Express, MongoDB**
 
