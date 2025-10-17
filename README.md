@@ -23,6 +23,7 @@
 
 ### Medium Articles
 <!-- BLOG-POST-LIST:START -->
+- [Interfaces Saved My Sanity: Lessons from My Typescript Struggles](https://medium.com/@rmkavindudhananjaya/interfaces-saved-my-sanity-lessons-from-my-typescript-struggles-95fe4a35a283?source=rss-2da2ec9079a5------2)
 - [Plugin Architecture: How It Works and When to Use It](https://medium.com/@rmkavindudhananjaya/plugin-architecture-how-it-works-and-when-to-use-it-45678ed5663e?source=rss-2da2ec9079a5------2)
 - [Mastering the Template Design Pattern in C++: A Step-by-Step Guide with Practical Example](https://medium.com/@rmkavindudhananjaya/mastering-the-template-design-pattern-in-c-a-step-by-step-guide-with-practical-example-56e639f1fc87?source=rss-2da2ec9079a5------2)
 - [Introduction to Computer Architecture: A Beginner’s Guide](https://medium.com/@rmkavindudhananjaya/introduction-to-computer-architecture-a-beginners-guide-8def8e57e4f7?source=rss-2da2ec9079a5------2)
