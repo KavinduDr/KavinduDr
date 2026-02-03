@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kavindu Dhanajaya</h1>
 <h3 align="center">A passionate Full Stack developer and Cyber Security Enthusiast</h3>
 
-<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=KavinduDr)](https://github.com/ryo-ma/github-profile-trophy) </p>
+<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=kavindudr)](https://github.com/ryo-ma/github-profile-trophy) </p>
 
 - 🔭 I’m currently working on **Student Assistant Application**
 
