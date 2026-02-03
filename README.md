@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kavindu Dhanajaya</h1>
 <h3 align="center">A passionate Full Stack developer and Cyber Security Enthusiast</h3>
 
-[![](https://github-profile-trophy.screw-hand.vercel.app/?username=kavindudr)](https://github-profile-trophy.screw-hand.vercel.app/?username=screw-hand&rank=SECRET&wantMultipleOrganizations=true)
+[![](https://github-profile-trophy.screw-hand.vercel.app/?username=kavindudr)](https://github-profile-trophy.screw-hand.vercel.app/?wantMultipleOrganizations=true)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavindudr" alt="kavindudr" /></a> </p>
 
 - 🔭 I’m currently working on **Student Assistant Application**
